@@ -4,11 +4,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>My Website</title>
+    <title>MSDN Free Downloads for SQL</title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
     <!-- <link rel="stylesheet" href="style.css"> -->
-    <!-- <link rel="stylesheet" type="text/css" href="css/main.css"> -->
+    <link rel="stylesheet" type="text/css" href="css/main.css">
   
-    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+    <!-- jquery ui-->
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.14.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="/resources/demos/style.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://code.jquery.com/ui/1.14.1/jquery-ui.js"></script>
+    <script>
+    $( function() {
+      $( document ).tooltip();
+    } );
+    </script>
+    <style>
+     label {
+      display: inline-block;
+      width: 5em;
+    }
+    </style>
+     <!-- jquery ui-->
 
   </head>
   <body>
@@ -39,10 +57,20 @@
 
         <br/><br/>
 
-        <a href="https://user456-ux.github.io/hello-world/SSMS_v21.zip">Download SSMS</a>
-        <p><a href="https://user456-ux.github.io/hello-world/SQL_Express.zip">Download SQL</a></p>  
-        <p><a href="https://user456-ux.github.io/hello-world/1.jpg">Download Test</a></p>  
-        
+        <a href="https://user456-ux.github.io/hello-world/SSMS_v21.zip"  title="SQL Server Management Studio 21">Download SSMS (zip)</a><br/>
+        <a href="https://learn.microsoft.com/en-us/ssms/install/install">&nbsp;&nbsp;&nbsp;&nbsp; or Microsoft .exe Scroll to Download SSMS 21</a>
+        <!-- https://aka.ms/ssms/21/release/vs_SSMS.exe -->
+
+        <p><a href="https://user456-ux.github.io/hello-world/SQL_Express.zip"  title="Microsoft SQL Server 2022 Express">Download SQL Express (zip)</a><br/>
+        <a href="https://www.microsoft.com/en-us/download/details.aspx?id=104781&lc=1033">&nbsp;&nbsp;&nbsp;&nbsp; or Microsoft .exe Microsoft</a>
+          
+        </p>  
+      
+      
+        <p><a href="https://user456-ux.github.io/hello-world/1.jpg" title="This is my tooltip">Download Test</a></p>  
+        <a download='test.jpg' id='id1' href="https://user456-ux.github.io/hello-world/1.jpg">
+  Download
+</a>
                
     
      

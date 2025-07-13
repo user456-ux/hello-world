@@ -5,7 +5,11 @@ html {
 }
 
 body {
-    margin: 0;
+    margin: 40px;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+
 }
 
 main {
@@ -30,7 +34,7 @@ pre {
 
 a{
     margin:40px;
-    display:inline-block;
+    /* display:inline-block; */
     font-weight:bolder;
     color:rgb(59, 106, 226);
     text-decoration:none;
