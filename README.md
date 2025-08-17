@@ -1,6 +1,6 @@
 # Free GitHub Static Web Page Hosting Installation Guide 🚀
 
-![Visits](https://img.shields.io/badge/Visits-35580-blue)
+![Visits](https://img.shields.io/badge/Visits-0-blue)
 
 Welcome to the `{my repo}` repository. This guide will ...
 
