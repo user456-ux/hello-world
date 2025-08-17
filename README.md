@@ -2,6 +2,8 @@
 
 ![Visits](https://img.shields.io/badge/Visits-0-blue)
 
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=user456-ux)
+
 Welcome to the `{my repo}` repository. This guide will ...
 
 ## Prerequisites 📋
