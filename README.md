@@ -2,7 +2,7 @@
 
 ![Visits](https://img.shields.io/badge/Visits-35580-blue)
 
-Welcome to the `{my repo}visitor-badge` repository. This guide will ...
+Welcome to the `{my repo}` repository. This guide will ...
 
 ## Prerequisites 📋
 
