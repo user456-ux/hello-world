@@ -1,6 +1,6 @@
 # Free GitHub Static Web Page Hosting Installation Guide 🚀
 
-![Visits](https://img.shields.io/badge/Visits-336-blue)
+![Visits](https://img.shields.io/badge/Visits-337-blue)
 
 ![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=user456-ux)
 
