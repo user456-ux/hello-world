@@ -1,6 +1,6 @@
 # Free GitHub Static Web Page Hosting Installation Guide 🚀
 Basically just a yaml workflow to update a .txt with __no real counting__ and dynamically insert into an svg (shields.io)  <br/>
-![Visits](https://img.shields.io/badge/Visits-427-blue)
+![Visits](https://img.shields.io/badge/Visits-428-blue)
 
 _Lttle Buggy and Seem to Reset_ https://githubvisitorstats.com/ <br/>
 ![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=user456-ux)
@@ -10,7 +10,7 @@ _Lttle Buggy and Seem to Reset_ https://githubvisitorstats.com/ <br/>
 -->
 "@Vercel's" Counter Version... ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fuser456-ux%2Fhello-world&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=) or perhaps <br/>
 
-![Visits](https://img.shields.io/badge/Visits-2Cool-blue)
+![Visits](https://img.shields.io/badge/Visits-428-blue)
 
 
 <!-- 
