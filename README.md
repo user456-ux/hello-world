@@ -5,9 +5,19 @@ Basically just a yaml workflow to update a .txt with __no real counting__ and dy
 _Lttle Buggy and Seem to Reset_ https://githubvisitorstats.com/ <br/>
 ![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=user456-ux)
 
-This is [var1](4)
+Basically just a yaml workflow to update a .txt with __no real counting__ and dynamically insert into an svg (shields.io)  <br/>
+![Visits](https://img.shields.io/badge/Visits-416-blue)
 
-[var1]
+_Lttle Buggy and Seems to Reset_ https://githubvisitorstats.com/ <br/>
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=user456-ux)
+
+<!-- 
+![visits](https://visit-counter.vercel.app/counter.png?page=&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
+-->
+"@Vercel's" Counter Version... ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fuser456-ux%2Fhello-world&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=) or perhaps <br/>
+
+
+
 
 "@Vercel's" Counter Version... ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fuser456-ux%2Fhello-world&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=) or perhaps <br/>
 
