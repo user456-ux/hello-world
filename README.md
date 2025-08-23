@@ -7,6 +7,7 @@
 "@Vercel's" Counter version...
 ![visits](https://visit-counter.vercel.app/counter.png?page=&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
 
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fuser456-ux%2Fhello-world&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
 
 Welcome to the `{my repo}` repository. This guide will ...
 
