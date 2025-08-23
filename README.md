@@ -19,11 +19,6 @@ _Lttle Buggy and Seems to Reset_ https://githubvisitorstats.com/ <br/>
 
 
 
-"@Vercel's" Counter Version... ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fuser456-ux%2Fhello-world&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=) or perhaps <br/>
-
-![Visits](https://img.shields.io/badge/Visits-418-blue)
-
-
 <!-- 
 ![visits](https://visit-counter.vercel.app/counter.png?page=&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
 -->
