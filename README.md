@@ -13,7 +13,7 @@ _Basic API int counter version_
 ![Visits](https://img.shields.io/badge/Visits-429-blue)
 
 <!-- considered dropping the vercel into a var then into svg badge, but that needs html/js, so we are back to the logging solution -->
-<!-- 
+<!-- https://github.com/antonkomarev/github-profile-views-counter
 ![visits](https://visit-counter.vercel.app/counter.png?page=&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
 -->
 
@@ -25,6 +25,8 @@ _Basic API int counter version_
 <br/>
 Welcome to the `{my repo}` repository. This guide will ...
 
+###  :construction: __This site is under construction__ :construction:
+<br/><br/><br/>
 ## Prerequisites 📋
 
 Before you begin, make sure you have:
