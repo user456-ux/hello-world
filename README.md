@@ -4,6 +4,10 @@
 
 ![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=user456-ux)
 
+"@Vercel's" Counter version...
+![visits](https://visit-counter.vercel.app/counter.png?page=&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
+
+
 Welcome to the `{my repo}` repository. This guide will ...
 
 ## Prerequisites 📋
