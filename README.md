@@ -36,6 +36,10 @@ Before you begin, make sure you have:
 - A GitHub account
 - A repository where you want to add the visitor badge
 - Basic knowledge of Git and GitHub
+- [For Beginners (Hellow World)][l10]
+  <!-- spcace heeded for hyperlink md syntax -->
+  [l10]: https://docs.github.com/en/get-started/start-your-journey/hello-world 
+
 
 ## Focus on these sections :bulb:
 - Settings (publish properties)
@@ -51,8 +55,10 @@ Before you begin, make sure you have:
 - GitHub follows the public repo / public page/site model
   -  You can publish a private a repo package to a public page
   -  You can publish your page and then mark your repo private </br>
-     this will reset your and repo and require you reenable your public/publish
-     settings for future updates
+     this will reset your and repo and require you to re0enable your public/publish settings for future updates
+- Consider a private repo / private site model like below alterantives if you would like youe source code private </br>
+     bear in mind this **defeats the purpose** of a collabortive repo but will protect yor intellual rights.
+     
 - Alterantives that suiport a true private repo / private page model
   - [Bitbucket (Atlassian/Jira)][l1]
   - [Firebase (google supports .Net)][l2]
