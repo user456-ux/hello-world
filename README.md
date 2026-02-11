@@ -5,7 +5,7 @@ Welcome to the `Getting Started with GitHub` repository. This guide will demonst
 ***
 
 _Basically just a yaml workflow to update a .txt with __no real counting__ and dynamically insert into an svg (shields.io)_  <br/>
-![Visits](https://img.shields.io/badge/Visits-435-blue)
+![Visits](https://img.shields.io/badge/Visits-436-blue)
 
 _Lttle Buggy and Seems to Reset_ https://githubvisitorstats.com/ <br/>
 ![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=user456-ux)
@@ -15,7 +15,7 @@ _Lttle Buggy and Seems to Reset_ https://githubvisitorstats.com/ <br/>
 -->
 _Basic API int counter version_
 "@Vercel's" Counter Version ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fuser456-ux%2Fhello-world&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=) <br/>
-<!-- ![Visits](https://img.shields.io/badge/Visits-435-blue) -->
+<!-- ![Visits](https://img.shields.io/badge/Visits-436-blue) -->
 
 <!-- considered dropping the vercel into a var then into svg badge, but that needs html/js, so we are back to the logging solution -->
 <!-- https://github.com/antonkomarev/github-profile-views-counter
